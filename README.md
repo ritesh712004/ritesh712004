@@ -46,14 +46,14 @@
 
 ---
 
-
+<!--
 ## 🐍 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ritesh712004/ritesh712004/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
-
+-->
 ## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/ritesh-abuj 
 
