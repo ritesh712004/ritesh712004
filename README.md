@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ritesh712004/ritesh712004/main/banner.png" alt="Ritesh Abuj DevOps Banner" />
+</p>
+
 <h3 align="center">🚀 Cloud & DevOps Engineer | Fresher</h3>
 
 <p align="center">
