@@ -13,9 +13,11 @@
   <a href="mailto:riteshabuj718@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://riteshdevops.online/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=22C55E" />
+</a>
 </p>
 
----
 
 ## 🧠 About Me
 🎓 B.E. Computer Engineering Graduate  
