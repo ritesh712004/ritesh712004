@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href=" https://www.linkedin.com/in/ritesh-abuj">
+  <a href= "https://www.linkedin.com/in/https://www.linkedin.com/in/ritesh-abuj">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:riteshabuj718@gmail.com">
