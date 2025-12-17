@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cloud & DevOps Engineer | Fresher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=#f89828&center=true&vCenter=true&width=550&lines=Cloud+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+Linux+%7C+Monitoring" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=f89828&center=true&vCenter=true&width=550&lines=Cloud+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+Linux+%7C+Monitoring" />
 </p>
 
 
