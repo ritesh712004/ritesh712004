@@ -27,7 +27,7 @@
 
 ---
 
-## ⚙️ Tech Stack (Animated Icons)
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,python,git,github,grafana,prometheus&perline=7" />
@@ -45,26 +45,10 @@
 
 ---
 
-## 📊 GitHub Analytics (Live)
 
+## 🐍 Contribution Snake 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=onedark&row=1&no-frame=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ritesh712004/ritesh712004/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
