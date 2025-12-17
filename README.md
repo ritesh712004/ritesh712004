@@ -1,20 +1,10 @@
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/ritesh712004/ritesh712004/main/banner.png"
-    alt="Ritesh Abuj DevOps Banner"
-    width="100%"
-  />
-</p>
-
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
-
-<h3 align="center">
-  🚀 Cloud & DevOps Engineer | Fresher
-</h3>
+<h3 align="center">🚀 Cloud & DevOps Engineer | Fresher</h3>
 
 <p align="center">
-  CI/CD &nbsp;|&nbsp; Linux &nbsp;|&nbsp; Monitoring
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Cloud+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Docker+%7C+Terraform;CI%2FCD+%7C+Linux+%7C+Monitoring" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ritesh-abuj">
