@@ -54,5 +54,6 @@
 ---
 
 ## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/ritesh-abuj
+💼 LinkedIn: https://www.linkedin.com/in/ritesh-abuj 
+
 📧 Email: riteshabuj718@gmail.com
